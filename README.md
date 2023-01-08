@@ -62,6 +62,8 @@ var setCookie = cookie.serialize('foo', 'bar');
 // foo=bar
 ```
 
+https://www.wikidata.org/wiki/Q116141761
+
 #### Options
 
 `cookie.serialize` accepts these properties in the options object.
